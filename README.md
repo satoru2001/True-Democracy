@@ -31,6 +31,7 @@ present their issues and actions respectively.</p>
 - Implemented a profinity check model with Tensorflow to asess the profinity of user submitted complaint
 - With chart.js we implemented the graphs to show the number of problems in an a constituency under that constituency representative page thus making it easy
 - Scraped the details of MLA's and Bills from official websites using Requests and Bs4
+- Desined 3 logos for our website using Blender
 - Implemented a search query to return all the queries regarding a problem
 - Gave power for MLA to mark the complaints solve, and then stored in database and represented in a graph form so that people can track him/her
 - Phone number verification is done with help of 2factor authentication api
